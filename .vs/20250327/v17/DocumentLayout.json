@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\2.Code\\VisualStudio\\250327\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{165C8C53-F171-426C-B80F-6FEC32132F9D}|20250327\\20250327.vcxproj|D:\\2.Code\\VisualStudio\\250327\\20250327\\20250327.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{165C8C53-F171-426C-B80F-6FEC32132F9D}|20250327\\20250327.vcxproj|solutionrelative:20250327\\20250327.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DFAA96C6-5129-4CA1-9654-9C77DDEB52DD}|new\\new.vcxproj|D:\\2.Code\\VisualStudio\\250327\\new\\new.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFAA96C6-5129-4CA1-9654-9C77DDEB52DD}|new\\new.vcxproj|solutionrelative:new\\new.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250327.cpp",
-              "DocumentMoniker": "D:\\2.Code\\VisualStudio\\250327\\20250327\\20250327.cpp",
-              "RelativeDocumentMoniker": "20250327\\20250327.cpp",
-              "ToolTip": "D:\\2.Code\\VisualStudio\\250327\\20250327\\20250327.cpp",
-              "RelativeToolTip": "20250327\\20250327.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Title": "new.cpp",
+              "DocumentMoniker": "D:\\2.Code\\VisualStudio\\250327\\new\\new.cpp",
+              "RelativeDocumentMoniker": "new\\new.cpp",
+              "ToolTip": "D:\\2.Code\\VisualStudio\\250327\\new\\new.cpp",
+              "RelativeToolTip": "new\\new.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-27T09:03:39.648Z",
+              "WhenOpened": "2025-03-28T07:28:18.01Z",
               "EditorCaption": ""
             }
           ]
